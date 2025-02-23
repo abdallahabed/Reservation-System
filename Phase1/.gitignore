@@ -1,0 +1,7 @@
+# Ignore Eclipse project files
+/bin/
+.classpath
+.project
+.settings/
+org.eclipse/
+iproject
